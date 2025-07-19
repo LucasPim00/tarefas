@@ -1,4 +1,4 @@
-const todoForm = document.querySelector("#todo-form");
+/*const todoForm = document.querySelector("#todo-form");
 const todoInput = document.querySelector("#todo-input");
 const todoList = document.querySelector("#todo-list");
 const editForm = document.querySelector("#edit-form");
@@ -164,4 +164,6 @@ filterSelect.addEventListener("change", (e) => {
 });
 
 // Iniciar
-document.addEventListener("DOMContentLoaded", loadTodos);
+document.addEventListener("DOMContentLoaded", loadTodos); */
+
+console.log("🔗 Aqui faria chamada à API real com fetch.");
